@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ic0/sort_filter.ico</file>
+        <file>ic0/delete_trash.ico</file>
+        <file>ic0/edit_file.ico</file>
+        <file>ic0/globe.ico</file>
+        <file>ic0/plus_add.ico</file>
+        <file>ic0/truck_vehicle.ico</file>
+        <file>ic0/zoom_find.ico</file>
+        <file>ic0/search_find.ico</file>
+        <file>Kursova_1_en_US.qm</file>
+        <file>Kursova_1_ru_RU.qm</file>
+        <file>ic0/en.png</file>
+        <file>ic0/ru.png</file>
+        <file>ic0/reset.ico</file>
+        <file>ic0/set.ico</file>
+        <file>ic0/about.ico</file>
+    </qresource>
+</RCC>
